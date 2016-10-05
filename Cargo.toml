@@ -1,0 +1,10 @@
+[package]
+name = "graphite_db"
+version = "0.1.0"
+authors = ["Adrien Jeser <adrien@jeser.me>"]
+
+description = "The main of GrpahiteDB library"
+documentation = "https://graphitedb.surge.sh"
+license = "AGPL-3.0"
+
+[dependencies]
