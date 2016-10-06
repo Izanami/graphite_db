@@ -1,13 +1,5 @@
 #![deny(missing_docs)]
+//! The main of GrpahiteDB library
 
-pub fn add_two(a: i32) -> i32 {
-    a + 4
-}
-
-
-#[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {
-    }
-}
+/// Network module.
+pub mod net;
